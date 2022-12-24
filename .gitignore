@@ -11,3 +11,8 @@ artifacts
 
 # MISC
 .DS_Store
+
+# subgraph
+build/
+node_modules/
+generated/
